@@ -91,3 +91,4 @@ class FileStorage:
                     counter += 1
             return counter
         return len(self.__objects)
+
